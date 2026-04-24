@@ -23,7 +23,7 @@ and improve customer retention.
 <br>
 
 <p align="center">
-  <img src="Data Visualisation/churn_by_contract.png" width="600"/>
+  <img src="Data Visualization/churn_by_contract.png" width="600"/>
 </p>
 
 ---
