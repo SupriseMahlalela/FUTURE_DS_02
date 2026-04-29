@@ -13,7 +13,7 @@ and improve customer retention.
 ## Tools to be used
 * we will use pandas and numpy for our dataframes and to load our data into a working environment.
 *  We will use jupyter notebook for exploratory data analysis.
-*  we will use Seaborn, Matplotlib, and pyplot for ou data visualisation
+*  we will use Seaborn, Matplotlib, and pyplot for ou data visualisation.
 * Power Bi for our report or live dashboard.
 * Github for continous intergration and documentation.
 
@@ -23,28 +23,28 @@ and improve customer retention.
  * Total Customers: 7,043
  * Churned Customers: 1,869
  * Current Churn Rate: 26.5%
- * Annual Revenue at Risk: ~$1.67M (based on avg monthly charges)
+ * Annual Revenue at Risk: ~$1.67M (based on avg monthly charges).
 
 ## IMMEDIATE RECOMMENDATIONS (30 DAYS)
  1. CONTRACT INCENTIVES:
     
-  → Offer $50 credit for switching from month-to-month to 1-year contract\n")
-  → Offer $100 credit for 2-year contract commitment\n")
+  → Offer $50 credit for switching from month-to-month to 1-year contract.
+  → Offer $100 credit for 2-year contract commitment.
   →Expected impact: Reduce churn by 15-20%
 
  2.PAYMENT METHOD INCENTIVES:\n")
  
-   → $5/month discount for automatic payment setup\n")
-   → Target electronic check users with personalized offers\n")
-   → Expected impact: Convert 30% of electronic check users
+   → $5/month discount for automatic payment setup.
+   → Target electronic check users with personalized offers.
+   → Expected impact: Convert 30% of electronic check users.
 
 ## Churn Drivers.
 TOP 5 CHURN DRIVERS:
 1. Month-to-month contracts (42.7% churn - 15x higher than 2-year contracts)
 2. First 12 months of tenure (47.7% churn - almost half of new customers leave.
-3. Electronic check payment (45.3% churn - 3x higher than auto-pay)
-4. Fiber optic internet (41.9% churn - vs 18.9% for DSL)
-5. Senior citizens (41.7% churn - vs 23.6% for non-seniors)
+3. Electronic check payment (45.3% churn - 3x higher than auto-pay).
+4. Fiber optic internet (41.9% churn - vs 18.9% for DSL).
+5. Senior citizens (41.7% churn - vs 23.6% for non-seniors).
 
 <details>
 <summary><strong>📊 Churn vs Contract Type</strong></summary>
