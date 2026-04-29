@@ -144,3 +144,7 @@ and improve customer retention.
 - Improve value perception for short-term users  
 
 </details>
+
+## DASHBOARD
+
+PowerBI Dashboard link: https://app.powerbi.com/groups/me/reports/385c0d65-2ee8-4f0e-9401-80e622603c11?ctid=bc5fec91-045a-4917-906e-43922049f31d&pbi_source=linkShare
