@@ -27,16 +27,14 @@ and improve customer retention.
 
 ## IMMEDIATE RECOMMENDATIONS (30 DAYS)
  1. CONTRACT INCENTIVES:
-    
-  → Offer $50 credit for switching from month-to-month to 1-year contract.
-  → Offer $100 credit for 2-year contract commitment.
-  →Expected impact: Reduce churn by 15-20%
-
- 2.PAYMENT METHOD INCENTIVES:\n")
- 
-   → $5/month discount for automatic payment setup.
-   → Target electronic check users with personalized offers.
-   → Expected impact: Convert 30% of electronic check users.
+    *  Offer $50 credit for switching from month-to-month to 1-year contract.
+    *  Offer $100 credit for 2-year contract commitment.
+    *  Expected impact: Reduce churn by 15-20%
+      
+  2. PAYMENT METHOD INCENTIVES:
+   * $5/month discount for automatic payment setup.
+   * Target electronic check users with personalized offers.
+   * Expected impact: Convert 30% of electronic check users.
 
 ## Churn Drivers.
 TOP 5 CHURN DRIVERS:
