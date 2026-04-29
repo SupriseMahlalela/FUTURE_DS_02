@@ -6,7 +6,7 @@ DATA SCIENCE AND ANALYTICS TASK 2.
 In this task I will be working on customer and subscription data in order to perform a study or an analysis into how certain factors affect the retention of customers and at the end of our study we will be able to understand why customers leave or remain engaged and we will also be able to reduce churn in order to improve revenue.
 
 ## Task objectives :
-in this project we will use data froman online source(kaggle) which can be accessible through this link[https://www.kaggle.com/datasets/blastchar/telco-customer-churn] so we will use our data to uncover hidden relationships, generate insights and also suggsest logical business recommendations which can help reduce churn 
+in this project we will use data froman online source(kaggle) which can be accessible through this link [https://www.kaggle.com/datasets/blastchar/telco-customer-churn] so we will use our data to uncover hidden relationships, generate insights and also suggsest logical business recommendations which can help reduce churn 
 and improve customer retention. 
 
 
@@ -56,22 +56,23 @@ and improve customer retention.
 ---
 
 ### 🔍 Findings
-- Customers on month-to-month contracts have the highest churn rate  
-- Long-term contracts (1–2 years) show strong retention  
-- Indicates commitment reduces churn  
+- Customers who use electronic check payment method have a higher churn rate.
+- Customers whos uses Mailed Check, Bank Transfer(automatic), and Credit Card (automatic) have the least churn rate compared to Electronic Check.
+- Customers who pay using credit card (automatic) have the least churn rate.
+
 
 ---
 
 ### 💡 Recommendations
-- Introduce incentives for long-term subscriptions  
-- Offer discounts for annual plans  
-- Improve value perception for short-term users  
+- Discard the use of Electronic Check.
+- Reduce paayment methods to mailed check, Bank Transfer, and credit card.
+- Introduce monthly discounts fro customers using credit card ths can easily amplify the transition from the other payment methods to the credit card payment method.
 
 </details>
 
 
 <details>
-<summary><strong>📊 Churn vs Monthlycharges</strong></summary>
+<summary><strong>📊 Churn vs Tenure </strong></summary>
 
 <br>
 
@@ -82,16 +83,15 @@ and improve customer retention.
 ---
 
 ### 🔍 Findings
-- Customers on month-to-month contracts have the highest churn rate  
-- Long-term contracts (1–2 years) show strong retention  
-- Indicates commitment reduces churn  
-
+- Inversely proportional relationship between Tenure and Churn rate which means the increase in tenure(number of years the customer has with us) simply leads to a dicrease in the churn rate.
+- Long-term contracts (2-5 years) show strong retention.
+- Indicates commitment reduces churn.
 ---
 
 ### 💡 Recommendations
-- Introduce incentives for long-term subscriptions  
-- Offer discounts for annual plans  
-- Improve value perception for short-term users  
+- Introduce penalties for customers who intend to churn in the first two years (Cancelation fee).
+- promote the use of long term contacts and offer loyalty rewards.
+
 
 </details>
 
@@ -107,16 +107,19 @@ and improve customer retention.
 ---
 
 ### 🔍 Findings
-- Customers on month-to-month contracts have the highest churn rate  
-- Long-term contracts (1–2 years) show strong retention  
-- Indicates commitment reduces churn  
+- Senior citizens  have the highest churn rate(41.7%)  
+- Non-Senior citizens have the lowest churn rate which is at (23.6%)
 
+  
 ---
 
 ### 💡 Recommendations
-- Introduce incentives for long-term subscriptions  
-- Offer discounts for annual plans  
-- Improve value perception for short-term users  
+- Introduce educational programs for senior citizens for brtter understanding of how thig=ngs work.
+- Senior citizen package:
+ * Free TechSupport (normally $10-15/month)
+ * Dedicated senior support line
+ * Quarterly check-in calls  
+ 
 
 </details>
 
@@ -132,16 +135,18 @@ and improve customer retention.
 ---
 
 ### 🔍 Findings
-- Customers on month-to-month contracts have the highest churn rate  
-- Long-term contracts (1–2 years) show strong retention  
-- Indicates commitment reduces churn  
+- Our service analysis reveals a clear pattern: security services retain customers, streaming services attract churn, and fiber optic is our biggest problem. 
+- Customers with OnlineSecurity churn at half the rate of those without (20% vs 35%). Yet only 30% of customers have it. 
+- Fiber optic customers churn at 42% - our highest risk segment.
+- Streaming services increase churn by 5%.Customers who sign up for streaming are more price-sensitive. 
 
 ---
 
 ### 💡 Recommendations
 - Introduce incentives for long-term subscriptions  
-- Offer discounts for annual plans  
-- Improve value perception for short-term users  
+- we should use streaming as loyalty rewards, not acquisition hooks [Month 12: Free StreamingMovies for 6 months].  
+- Bundling free security services with fiber could cut that churn in half.
+- Create mandatory bundle: Fiber optic internet + FREE OnlineSecurity + FREE TechSupport
 
 </details>
 
