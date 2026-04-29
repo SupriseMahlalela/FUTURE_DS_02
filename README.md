@@ -2,6 +2,7 @@
 # FUTURE_DS_02 CUSTOMER RETENTION AND CHURN ANALYSIS.
 
 DATA SCIENCE AND ANALYTICS TASK 2.
+
 In this task I will be working on customer and subscription data in order to perform a study or an analysis into how certain factors affect the retention of customers and at the end of our study we will be able to understand why customers leave or remain engaged and we will also be able to reduce churn in order to improve revenue.
 
 ## Task objectives :
@@ -16,7 +17,8 @@ and improve customer retention.
 * Power Bi for our report or live dashboard.
 * Github for continous intergration and documentation.
 
-##
+## KEY FINDINGS AND RECOMMENDATIONS.
+
 <details>
 <summary><strong>📊 Churn vs Contract Type</strong></summary>
 
@@ -41,7 +43,7 @@ and improve customer retention.
 - Improve value perception for short-term users  
 
 </details>
-##
+
 <details>
 <summary><strong>📊 Churn vs Payment Method Type</strong></summary>
 
@@ -67,7 +69,7 @@ and improve customer retention.
 
 </details>
 
-##
+
 <details>
 <summary><strong>📊 Churn vs Monthlycharges</strong></summary>
 
@@ -92,7 +94,7 @@ and improve customer retention.
 - Improve value perception for short-term users  
 
 </details>
-##
+
 <details>
 <summary><strong>📊 Churn Rate: Senior vs Non-Senior Type</strong></summary>
 
@@ -117,7 +119,7 @@ and improve customer retention.
 - Improve value perception for short-term users  
 
 </details>
-##
+
 <details>
 <summary><strong>📊 Churn vs Internet service </strong></summary>
 
