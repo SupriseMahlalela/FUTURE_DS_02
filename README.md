@@ -19,6 +19,33 @@ and improve customer retention.
 
 ## KEY FINDINGS AND RECOMMENDATIONS.
 
+## EXECUTIVE SUMMARY. 
+ * Total Customers: 7,043
+ * Churned Customers: 1,869
+ * Current Churn Rate: 26.5%
+ * Annual Revenue at Risk: ~$1.67M (based on avg monthly charges)
+
+## IMMEDIATE RECOMMENDATIONS (30 DAYS)
+ 1. CONTRACT INCENTIVES:
+    
+  → Offer $50 credit for switching from month-to-month to 1-year contract\n")
+  → Offer $100 credit for 2-year contract commitment\n")
+  →Expected impact: Reduce churn by 15-20%
+
+ 2.PAYMENT METHOD INCENTIVES:\n")
+ 
+   → $5/month discount for automatic payment setup\n")
+   → Target electronic check users with personalized offers\n")
+   → Expected impact: Convert 30% of electronic check users
+
+## Churn Drivers.
+TOP 5 CHURN DRIVERS:
+1. Month-to-month contracts (42.7% churn - 15x higher than 2-year contracts)
+2. First 12 months of tenure (47.7% churn - almost half of new customers leave.
+3. Electronic check payment (45.3% churn - 3x higher than auto-pay)
+4. Fiber optic internet (41.9% churn - vs 18.9% for DSL)
+5. Senior citizens (41.7% churn - vs 23.6% for non-seniors)
+
 <details>
 <summary><strong>📊 Churn vs Contract Type</strong></summary>
 
@@ -154,7 +181,8 @@ and improve customer retention.
 
 PowerBI Dashboard link: https://app.powerbi.com/groups/me/reports/385c0d65-2ee8-4f0e-9401-80e622603c11?ctid=bc5fec91-045a-4917-906e-43922049f31d&pbi_source=linkShare
 
-### General Recommendations.
+
+
 ## 📧 Contact
 FOR QUESTIONS OR COLLABORATION:
 
