@@ -41,3 +41,104 @@ and improve customer retention.
 - Improve value perception for short-term users  
 
 </details>
+##
+<details>
+<summary><strong>📊 Churn vs Payment Method Type</strong></summary>
+
+<br>
+
+<p align="center">
+  <img src="Data Visualization/churn_by_payment.png" width="600"/>
+</p>
+
+---
+
+### 🔍 Findings
+- Customers on month-to-month contracts have the highest churn rate  
+- Long-term contracts (1–2 years) show strong retention  
+- Indicates commitment reduces churn  
+
+---
+
+### 💡 Recommendations
+- Introduce incentives for long-term subscriptions  
+- Offer discounts for annual plans  
+- Improve value perception for short-term users  
+
+</details>
+
+##
+<details>
+<summary><strong>📊 Churn vs Monthlycharges</strong></summary>
+
+<br>
+
+<p align="center">
+  <img src="Data Visualization/churn_by_tenure.png" width="600"/>
+</p>
+
+---
+
+### 🔍 Findings
+- Customers on month-to-month contracts have the highest churn rate  
+- Long-term contracts (1–2 years) show strong retention  
+- Indicates commitment reduces churn  
+
+---
+
+### 💡 Recommendations
+- Introduce incentives for long-term subscriptions  
+- Offer discounts for annual plans  
+- Improve value perception for short-term users  
+
+</details>
+##
+<details>
+<summary><strong>📊 Churn Rate: Senior vs Non-Senior Type</strong></summary>
+
+<br>
+
+<p align="center">
+  <img src="Data Visualization/churn_by_senior.png" width="600"/>
+</p>
+
+---
+
+### 🔍 Findings
+- Customers on month-to-month contracts have the highest churn rate  
+- Long-term contracts (1–2 years) show strong retention  
+- Indicates commitment reduces churn  
+
+---
+
+### 💡 Recommendations
+- Introduce incentives for long-term subscriptions  
+- Offer discounts for annual plans  
+- Improve value perception for short-term users  
+
+</details>
+##
+<details>
+<summary><strong>📊 Churn vs Internet service </strong></summary>
+
+<br>
+
+<p align="center">
+  <img src="Data Visualization/churn_by_service.png" width="600"/>
+</p>
+
+---
+
+### 🔍 Findings
+- Customers on month-to-month contracts have the highest churn rate  
+- Long-term contracts (1–2 years) show strong retention  
+- Indicates commitment reduces churn  
+
+---
+
+### 💡 Recommendations
+- Introduce incentives for long-term subscriptions  
+- Offer discounts for annual plans  
+- Improve value perception for short-term users  
+
+</details>
